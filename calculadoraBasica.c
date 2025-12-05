@@ -5,7 +5,10 @@ int sumar(int a, int b){
     int r;
     return r=a+b;
 }
-int restar(int a, int b);
+int restar(int a, int b){
+    int r;
+    return r=a-b;
+}
 int multiplicar(int a, int b);
 float dividir(int a, int b);
 void mostrar_menu();
