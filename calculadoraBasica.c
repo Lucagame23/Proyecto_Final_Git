@@ -1,7 +1,10 @@
 #include <stdio.h>
 
 // Prototipos realizar suma, resta, multiplicación y división
-int sumar(int a, int b);
+int sumar(int a, int b){
+    int r;
+    return r=a+b;
+}
 int restar(int a, int b);
 int multiplicar(int a, int b);
 float dividir(int a, int b);
