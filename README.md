@@ -6,9 +6,9 @@ Este proyecto consiste en el desarrollo colaborativo de una calculadora básica 
 
 ## 👥 Integrantes del Equipo
 
-- **Colaborador 1:** [Nombre]
-- **Colaborador 2:** [Nombre]
-- **Colaborador 3:** [Nombre]
+- **Colaborador 1:** [Matias Muñoz]
+- **Colaborador 2:** [Tomas Lamas]
+- **Colaborador 3:** [Luca Masotti]
 
 
 ## 🔧 Funcionalidades Implementadas
