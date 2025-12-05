@@ -1,10 +1,16 @@
 #include <stdio.h>
 
-// Prototipos realizar suma, resta, multiplicación y división
 int sumar(int a, int b);
 int restar(int a, int b);
 int multiplicar(int a, int b);
-float dividir(int a, int b);
+float dividir(int a, int b){
+if (b==0)
+{
+printf("ERROR");
+return 0;
+}
+return (float) a/b;
+}
 void mostrar_menu();
 
 int main()
@@ -80,7 +86,6 @@ void mostrar_menu()
     printf("Seleccione una opcion: ");
 }
 
-// Crear las demás funciones aquí
 
 
 
